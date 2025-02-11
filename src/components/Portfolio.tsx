@@ -2,12 +2,12 @@
 import { motion } from 'framer-motion'
 import Image from 'next/image'
 import React from 'react'
-import project from '../../public/project.jpg'
+
 import resume from '../../public/3d-rendering-cartoon-style-minimal-cv-resume-ic-removebg-preview.png'
 import Link from 'next/link'
-import ecommerce from '../../public/makeup.png'
-import foodluck from '../../public/ecommerce.png'
-import blog from '../../public/image.png'
+import ecommerce from '../../public/image3.png'
+import foodluck from '../../public/image2.png'
+import blog from '../../public/image1.png'
 const projects =[
   {title:'Resume Builder',desc:"This resume builder is builded by using HTML, CSS and TYPESCRIPT",link:"https://milestone-5-one-lake.vercel.app/",src:resume},
   {title:'Aura Of Beauty',desc:"This project is build by using typescript, nextjs a react frame and tailwind css and sanity.io",link:"https://sanity-ecommerce-qs.vercel.app/",src:ecommerce},
