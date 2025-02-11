@@ -8,7 +8,7 @@ import { motion } from "framer-motion"
 
 
 const navLink = [
-    { title: 'About', path: '#about' },
+    { title: 'About', path: '#hero' },
     { title: 'Portfolio', path: '#portfolio' }
 ]
 
